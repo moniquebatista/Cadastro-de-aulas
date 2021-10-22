@@ -1,7 +1,7 @@
 # Cadastro-de-aulas
 Projeto desenvolvido no Curso Tindin
 
-Para as seguintes tabelas para conectar ao Banco de dados
+Crie as seguintes tabelas para conectar ao Banco de dados
 
 ```
 CREATE TABLE `classes` (
